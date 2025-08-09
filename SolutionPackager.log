@@ -1,0 +1,20 @@
+2025-08-05 15:39:26.148 - Info	
+Packing C:\Users\QZ ENGINEERING\Desktop\PCF3\solution\obj\Debug\Metadata to bin\Debug\solution.zip
+
+2025-08-05 15:39:26.174 - Info	Processing Component: Entities
+2025-08-05 15:39:26.180 - Info	Processing Component: Roles
+2025-08-05 15:39:26.185 - Info	Processing Component: Workflows
+2025-08-05 15:39:26.186 - Info	Processing Component: FieldSecurityProfiles
+2025-08-05 15:39:26.188 - Info	Processing Component: Templates
+2025-08-05 15:39:26.190 - Info	Processing Component: EntityMaps
+2025-08-05 15:39:26.192 - Info	Processing Component: EntityRelationships
+2025-08-05 15:39:26.196 - Info	Processing Component: OrganizationSettings
+2025-08-05 15:39:26.198 - Info	Processing Component: optionsets
+2025-08-05 15:39:26.199 - Info	Processing Component: CustomControls
+2025-08-05 15:39:26.211 - Info	 - Qz.VideoNotes.VideoNotesControl
+2025-08-05 15:39:26.215 - Info	Processing Component: SolutionPluginAssemblies
+2025-08-05 15:39:26.218 - Info	Processing Component: EntityDataProviders
+2025-08-05 15:39:26.233 - Info	Processing Sharded Component Files
+2025-08-05 15:39:26.312 - Info	
+Unmanaged Pack complete.
+

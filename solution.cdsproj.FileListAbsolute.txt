@@ -1,0 +1,2 @@
+C:\Users\QZ ENGINEERING\Desktop\PCF3\solution\obj\Debug\solution.cdsproj.AssemblyReference.cache
+C:\Users\QZ ENGINEERING\Desktop\PCF3\solution\obj\Debug\solution.cdsproj.CoreCompileInputs.cache
