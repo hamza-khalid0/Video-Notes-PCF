@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="Qz.VideoNotes" constructor="VideoNotesControl" version="1.0.0" display-name-key="Video Notes Control" description-key="Video/Audio Notes Recorder for Dataverse" control-type="standard">
+    <resources>
+      <code path="index.ts" order="1"/>
+    </resources>
+    <feature-usage>
+      <uses-feature name="WebAPI" required="true" />
+      <uses-feature name="Device.captureAudio" required="true" />
+      <uses-feature name="Device.captureVideo" required="true" />
+    </feature-usage>
+    <property name="value" display-name-key="Value" description-key="Value" of-type="SingleLine.Text" usage="bound" />
+  </control>
+</manifest>
